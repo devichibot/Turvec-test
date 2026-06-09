@@ -1,0 +1,4 @@
+turbovec>=0.7.0
+numpy>=1.20
+# opsional, untuk embedding semantik nyata:
+# sentence-transformers
