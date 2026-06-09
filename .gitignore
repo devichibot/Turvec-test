@@ -1,0 +1,14 @@
+# lingkungan virtual
+.venv/
+venv/
+
+# cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# database & index lokal (dihasilkan saat dipakai; sebagian besar > batas GitHub)
+data/
+
+# berkas sistem
+.DS_Store
