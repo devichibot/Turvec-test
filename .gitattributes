@@ -1,0 +1,6 @@
+# Pastikan GitHub Linguist menghitung berkas ini sebagai Python
+*.py linguist-language=Python
+*.py linguist-detectable=true
+
+# README adalah dokumentasi (tidak dihitung sebagai bahasa)
+*.md linguist-documentation
